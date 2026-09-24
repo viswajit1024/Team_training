@@ -1,7 +1,8 @@
 # Repo for Tracking phase 1 Foundation
 
 # Collaborators :
-* [@shreya0nair](https://github.com/shreya0nair)
-* [@Mehtahrdk](https://github.com/Mehtahrdk)
-* [@ShrayRathi](https://github.com/ShrayRathi)
-* [@viswajit1024](https://github.com/viswajit1024)
+* [Shreya](https://github.com/shreya0nair)
+* [Hardik](https://github.com/Mehtahrdk)
+* [Shray](https://github.com/ShrayRathi)
+* [Khwahish](https://github.com/khwahish-sankhala)
+* [Viswajit](https://github.com/viswajit1024)
